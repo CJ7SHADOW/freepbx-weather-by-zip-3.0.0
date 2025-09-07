@@ -9,7 +9,7 @@ Tested and working on FreePBX17 on Debian 12
 
 cd /tmp
 
-wget https://github.com/CJ7SHADOW/freepbx-weather-by-zip-3.0.0/install_weather.sh
+wget https://github.com/user-attachments/files/22192815/install_weather.sh
 
 chmod +x install_weather.sh
 
