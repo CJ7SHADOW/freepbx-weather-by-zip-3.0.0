@@ -17,6 +17,7 @@ sudo ./install_weather.sh
 
 
 1️⃣ SET YOUR API KEY (Required!):
+
 weather-setkey YOUR_API_KEY
 
 Don't have a key? Get one free:
