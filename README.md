@@ -11,9 +11,9 @@ cd /tmp
 
 wget https://github.com/user-attachments/files/22192815/install_weather.sh
 
-chmod +x install_weather.sh
+sudo chmod +x install_weather.sh
 
-./install_weather.sh
+sudo ./install_weather.sh
 
 
 1️⃣ SET YOUR API KEY (Required!):
